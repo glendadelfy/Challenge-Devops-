@@ -1,4 +1,4 @@
-# PROJETO OdontoAPIMinimal .NET API
+# PROJETO OdontoAPIMinimal DEVOPS 
 GLENDA DELFY VELA MAMANI – RM 552667 LUCAS ALCÂNTARA CARVALHO – RM 95111 RENAN BEZERRA DOS SANTOS – RM 553228
 # OdontoAPI Minimal 
 
@@ -21,6 +21,15 @@ A **OdontoAPI Minimal** é uma API para gerenciamento odontológico, integrando 
 ✔ **Swagger para documentação interativa**  
 ✔ **Teste de Integração com Xunit**  
 
+## Comandos utilizados Devops para o CI e CD 
+
+![image](https://github.com/user-attachments/assets/7a13fadc-093b-478d-9f9a-26ed28796ff9)
+
+![image](https://github.com/user-attachments/assets/7baf3b62-638d-4587-a2f3-4ab1933061e4)
+![Uploading image.png…]()
+
+
+Detalhes no video.
 ## 🚀 Como Executar
 ```bash
 # Clone o repositório
